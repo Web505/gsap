@@ -1,0 +1,25 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.box {
+  position:absolute;
+  height:100px;
+  width:100px;
+  border-radius:20px;
+}
+.green {
+  background-color:green;
+  left:10%;
+}
+.purple {
+  background-color:purple;
+  left:10%;
+  top:110px
+}
+.blue {
+  background-color:blue;
+  left:10%;
+  top: 220px;
+}
